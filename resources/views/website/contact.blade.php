@@ -24,7 +24,7 @@
                                             <div class="contact-list">
                                                 <div class="single-contact-list">
                                                     <div class="contact-icon">
-                                                        <i class="fab fa-facebook-f"></i>
+                                                        <i class="fas fa-map-marker-alt"></i>
                                                     </div>
                                                     <div class="conatct-desc">
                                                         <p>Liên Nghĩa - Văn Giang - Hưng Yên </p>
@@ -32,7 +32,7 @@
                                                 </div>
                                                 <div class="single-contact-list">
                                                     <div class="contact-icon">
-                                                        <i class="fab fa-facebook-f"></i>
+                                                        <i class="fas fa-phone-volume"></i>
                                                     </div>
                                                     <div class="conatct-desc">
                                                         <p>0358327971 <br> 0982685598</p>
@@ -43,7 +43,15 @@
                                                         <i class="fab fa-facebook-f"></i>
                                                     </div>
                                                     <div class="conatct-desc">
-                                                        <p>info@gmail.com<br> snowrainbow472@gmail.com</p>
+                                                        <p>Snowrainbow</p>
+                                                    </div>
+                                                </div>
+                                                <div class="single-contact-list">
+                                                    <div class="contact-icon">
+                                                     <i class="fas fa-envelope-open-text"></i>
+                                                    </div>
+                                                    <div class="conatct-desc">
+                                                        <p>quangtung@gmail.com<br> snowrainbow472@gmail.com</p>
                                                     </div>
                                                 </div>
                                             </div>

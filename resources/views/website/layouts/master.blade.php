@@ -33,5 +33,6 @@
 
 <!-- all js here -->
 @include('website.partials.script')
+
 </body>
 </html>

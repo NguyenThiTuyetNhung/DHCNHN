@@ -1706,7 +1706,7 @@ input.cart-plus-minus-box {
 .single-product-active.owl-carousel:hover .owl-nav > div {
     opacity: 1;
 }
-.add_to_cart_btn > a {
+.add_to_cart_btn > button {
     background: #f6563c none repeat scroll 0 0;
     border-radius: 3px;
     color: #ffffff;
@@ -1717,8 +1717,9 @@ input.cart-plus-minus-box {
     margin: 0 12px;
     padding: 0 20px;
     text-transform: uppercase;
+    border: none;
 }
-.add_to_cart_btn > a:hover {
+.add_to_cart_btn > button:hover {
     background: #151320 none repeat scroll 0 0;
 }
 .wishlist > a {

@@ -7,7 +7,7 @@
     </ul>
 
     <div class="info" style=" position: absolute; right: 20px; ">
-      <a href="{{ route('admin.logout') }}" class="d-block" style=" background: antiquewhite; padding: 16px; ">Log Out</a>
+      <a href="{{ route('admin.logout') }}" class="d-block btn btn-primary" >Log Out</a>
     </div>
   </nav>
   <!-- /.navbar -->
@@ -112,6 +112,29 @@
             <a href="{{ route('admin.members.index') }}" class="nav-link @if(Route::currentRouteName() == "admin.members.index") {{" active"}} @endif">
               <i class="fa fa-circle-o nav-icon"></i>
               <p>Danh sách nhân viên</p>
+            </a>
+          </li>
+        </ul>
+      </li> 
+      <li class="nav-item has-treeview @if(Route::currentRouteName() == "admin.users.index" || Route::currentRouteName() == "admin.members.index") {{" menu-open"}} @endif">
+        <a href="#" class="nav-link @if(Route::currentRouteName() == "admin.users.index" || Route::currentRouteName() == "admin.members.index") {{" active"}} @endif">
+          <i class="nav-icon fa fas fa-users"></i>
+          <p>
+            Quản lý danh mục
+            <i class="right fa fa-angle-left"></i>
+          </p>
+        </a>
+        <ul class="nav nav-treeview">
+          <li class="nav-item">
+            <a href="{{ route('admin.group_products.index') }}" class="nav-link @if(Route::currentRouteName() == "admin.group_products.index") {{" active"}} @endif">
+              <i class="fa fa-circle-o nav-icon"></i>
+              <p>Danh sách danh mục</p>
+            </a>
+          </li>
+          <li class="nav-item">
+            <a href="{{ route('admin.group_products.create') }}" class="nav-link @if(Route::currentRouteName() == "admin.group_products.create") {{" active"}} @endif">
+              <i class="fa fa-circle-o nav-icon"></i>
+              <p>Thêm danh mục</p>
             </a>
           </li>
         </ul>

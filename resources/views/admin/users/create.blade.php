@@ -86,19 +86,7 @@
 
 
             <!-- /.form-group -->
-
-          </div>
-          <!-- /.col -->
-          <div class="col-md-6">
-
-            <!-- /.form-group -->
-          <!-- /.form-group -->
-        </div>
-        <!-- /.col -->
-      </div>
-      <!-- /.row -->
-      <!--Button -->
-      <div class="row">
+        <div class="row">
         <div class="col-md-1">
           <button type="submit" class="btn btn-block btn-primary">Thêm</button>
         </div>
@@ -109,9 +97,11 @@
         </div>
         <!-- /.col -->
       </div>
-      <!--End Button -->
-    </div>
-  </form>
+      </div>
+
+</div>
+
+</form>
 </section>
 </div>
 

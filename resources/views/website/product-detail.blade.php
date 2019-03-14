@@ -16,20 +16,37 @@
                                         </div>
                                         <div class="widget_categories">
                                            <ul>
-                                                <li><a href="product-details-sidebar.html#">Adventure Tourers <span class="caet_count">(6)</span></a></li>
-                                                <li><a href="product-details-sidebar.html#">Learner LAMS <span class="caet_count">(8)</span></a></li>
-                                                <li><a href="product-details-sidebar.html#"> Minibikes<span class="caet_count">(7)</span></a></li>
-                                                <li><a href="product-details-sidebar.html#"> Naked<span class="caet_count">(10)</span></a></li>
-                                                <li><a href="product-details-sidebar.html#">Competition<span class="caet_count">(5)</span></a></li>
-                                                <li><a href="product-details-sidebar.html#">Trail<span class="caet_count">(12)</span></a></li>
-                                                <li><a href="product-details-sidebar.html#">Scooters<span class="caet_count">(15)</span></a></li>
+                                                <li><a href="product-details-sidebar.html#">Nhông xích<span class="caet_count">(6)</span></a></li>
+                                                <li><a href="product-details-sidebar.html#">Giảm sóc<span class="caet_count">(8)</span></a></li>
+                                                <li><a href="product-details-sidebar.html#">Xăm lốp<span class="caet_count">(7)</span></a></li>
+                                                <li><a href="product-details-sidebar.html#">Nhựa<span class="caet_count">(10)</span></a></li>
+                                                <li><a href="product-details-sidebar.html#">Gương<span class="caet_count">(5)</span></a></li>
+                                                <li><a href="product-details-sidebar.html#">Bóng đèn<span class="caet_count">(12)</span></a></li>
+                                                <li><a href="product-details-sidebar.html#">Má phanh<span class="caet_count">(15)</span></a></li>
+                                                <li><a href="product-details-sidebar.html#">Khác<span class="caet_count">(15)</span></a></li>
                                             </ul>
                                         </div>
                                     </div>
                                     
+                                      <div class="sidebar_widget mb-50">
+                                        <div class="widget_title">
+                                            <h3>Hãng phân phối</h3>
+                                        </div>
+                                        <div class="widget_categories">
+                                           <ul>
+                                                <li><a href="product-details-sidebar.html#">Honda<span class="caet_count"></span></a></li>
+                                                <li><a href="product-details-sidebar.html#">Yamaha<span class="caet_count"></span></a></li>
+                                                <li><a href="product-details-sidebar.html#">Kawasaki<span class="caet_count"></span></a></li>
+                                                <li><a href="product-details-sidebar.html#">Suzuki<span class="caet_count"></span></a></li>
+                                                <li><a href="product-details-sidebar.html#">Piaggio<span class="caet_count"></span></a></li>
+                                                <li><a href="product-details-sidebar.html#">SYM<span class="caet_count"></span></a></li>
+                                            </ul>
+                                        </div>
+                                    </div>
+
                                     <div class="sidebar_widget mb-50">
                                         <div class="widget_title">
-                                            <h3>Price</h3>
+                                            <h3>Giá</h3>
                                         </div>
                                         <div class="widget_price">
                                             <div class="sidebar-price">
@@ -42,34 +59,34 @@
                                     
                                     <div class="sidebar_widget mb-50">
                                         <div class="widget_title">
-                                            <h3>Color</h3>
+                                            <h3>Màu sắc</h3>
                                         </div>
                                         <div class="widget_colord">
                                            <ul>
-                                                <li><a href="product-details-sidebar.html#">Black</a></li>
-                                                <li><a href="product-details-sidebar.html#">white</a></li>
-                                                <li><a href="product-details-sidebar.html#">red</a></li>
-                                                <li><a href="product-details-sidebar.html#">Yellow</a></li>
-                                                <li><a href="product-details-sidebar.html#">Blue</a></li>
-                                                <li><a href="product-details-sidebar.html#">Orion Silver</a></li>
-                                                <li><a href="product-details-sidebar.html#">Gray</a></li>
+                                                <li><a href="product-details-sidebar.html#">Đen</a></li>
+                                                <li><a href="product-details-sidebar.html#">Trắng</a></li>
+                                                <li><a href="product-details-sidebar.html#">Đỏ</a></li>
+                                                <li><a href="product-details-sidebar.html#">Bạc</a></li>
+                                                <li><a href="product-details-sidebar.html#">Xám</a></li>
+                                                <li><a href="product-details-sidebar.html#">Xanh</a></li>
+                                                <li><a href="product-details-sidebar.html#">Vàng cam</a></li>
                                             </ul>
                                         </div>
                                     </div> 
                                     
                                     <div class="sidebar_widget">
                                         <div class="widget_title">
-                                            <h3>Tags</h3>
+                                            <h3>Từ khóa</h3>
                                         </div>
                                         <div class="widget_tags">
                                            <ul>
-                                                <li><a href="product-details-sidebar.html#">bike</a></li>
-                                                <li><a href="product-details-sidebar.html#">bicycle</a></li>
-                                                <li><a href="product-details-sidebar.html#">motor</a></li>
-                                                <li><a href="product-details-sidebar.html#">road bike</a></li>
-                                                <li><a href="product-details-sidebar.html#">city bike</a></li>
-                                                <li><a href="product-details-sidebar.html#">cars</a></li>
-                                                <li><a href="product-details-sidebar.html#">squters</a></li>
+                                                <li><a href="product-details-sidebar.html#">Hàng mới về</a></li>
+                                                <li><a href="product-details-sidebar.html#">Hàng giảm giá</a></li>
+                                                <li><a href="product-details-sidebar.html#">Chất lượng</a></li>
+                                                <li><a href="product-details-sidebar.html#">Lốp xe ga</a></li>
+                                                <li><a href="product-details-sidebar.html#">Honda</a></li>
+                                                <li><a href="product-details-sidebar.html#">Yamaha</a></li>
+                                                <li><a href="product-details-sidebar.html#">Phụ tùng xe số</a></li>
                                            </ul>
                                         </div>
                                     </div>
@@ -84,37 +101,37 @@
                                             <div class="product-details-tab">
                                                 <div id="img-1" class="zoomWrapper single-zoom">
                                                     <a href="product-details-sidebar.html#">
-                                                        <img id="zoom1" src="assets/img/product/pro_details/big-2.jpg" data-zoom-image="assets/img/product/pro_details/z-1.jpg" alt="big-1">
+                                                        <img id="zoom1" src="{{ asset(''.$product->image) }}" data-zoom-image="assets/img/product/pro_details/z-1.jpg" alt="big-1">
                                                     </a>
                                                 </div>
                                                 <div class="single-zoom-thumb mt-20">
                                                     <ul class="s-tab-zoom owl-carousel single-product-active" id="gallery_01">
                                                         <li>
                                                             <a href="product-details-sidebar.html#" class="elevatezoom-gallery active" data-update="" data-image="assets/img/product/pro_details/big-2.jpg" data-zoom-image="assets/img/product/pro_details/z-1.jpg">
-                                                                <img src="assets/img/product/pro_details/pro_sm_1.jpg" alt="zo-th-1"/>
+                                                                <img src="{{ asset(''.$product->image) }}" data-zoom-image="assets/img/product/pro_details/z-1.jpg" alt="big-1"/>
                                                             </a>
                                                         </li>
                                                         <li>
                                                             <a href="product-details-sidebar.html#" class="elevatezoom-gallery active" data-update="" data-image="assets/img/product/pro_details/big-2.jpg" data-zoom-image="assets/img/product/pro_details/z-1.jpg">
-                                                                <img src="assets/img/product/pro_details/pro_sm_2.jpg" alt="zo-th-1"/>
+                                                                <img src="{{ asset(''.$product->image) }}" data-zoom-image="assets/img/product/pro_details/z-1.jpg" alt="big-1"/>
                                                             </a>
 
                                                         </li>
                                                         <li >
                                                             <a href="product-details-sidebar.html#" class="elevatezoom-gallery active" data-update="" data-image="assets/img/product/pro_details/big-3.jpg" data-zoom-image="assets/img/product/pro_details/z-1.jpg">
-                                                                <img src="assets/img/product/pro_details/pro_sm_3.jpg" alt="zo-th-1"/>
+                                                                <img src="{{ asset(''.$product->image) }}" data-zoom-image="assets/img/product/pro_details/z-1.jpg" alt="big-1"/>
                                                             </a>
 
                                                         </li>
                                                         <li >
                                                             <a href="product-details-sidebar.html#" class="elevatezoom-gallery active" data-update="" data-image="assets/img/product/pro_details/big-4.jpg" data-zoom-image="assets/img/product/pro_details/z-1.jpg">
-                                                                <img src="assets/img/product/pro_details/pro_sm_4.jpg" alt="zo-th-1"/>
+                                                                <img src="{{ asset(''.$product->image) }}" data-zoom-image="assets/img/product/pro_details/z-1.jpg" alt="big-1"/>
                                                             </a>
 
                                                         </li>
                                                         <li >
                                                             <a href="product-details-sidebar.html#" class="elevatezoom-gallery active" data-update="" data-image="assets/img/product/pro_details/big-4.jpg" data-zoom-image="assets/img/product/pro_details/z-1.jpg">
-                                                                <img src="assets/img/product/pro_details/pro_sm_4.jpg" alt="zo-th-1"/>
+                                                                <img src="{{ asset(''.$product->image) }}" data-zoom-image="assets/img/product/pro_details/z-1.jpg" alt="big-1"/>
                                                             </a>
 
                                                         </li>
@@ -126,57 +143,63 @@
                                     <!--Product Tab Style End-->
                                     <div class="col-md-12 col-lg-7 col-12">
                                         <div class="product-details-content">
-                                            <h3>Handcrafted Supper Mug</h3>
+                                            <h3>{{ $product->name }}</h3>
                                             <div class="rating-number">
-                                                <div class="product_rating">
+                                                {{-- <div class="product_rating">
                                                     <a href="product-details.html#"><i class="zmdi zmdi-star"></i></a>
                                                     <a href="product-details.html#"><i class="zmdi zmdi-star"></i></a>
                                                     <a href="product-details.html#"><i class="zmdi zmdi-star"></i></a>
                                                     <a href="product-details.html#"><i class="zmdi zmdi-star"></i></a>
                                                     <a href="product-details.html#"><i class="zmdi zmdi-star-half"></i></a>
-                                                </div>
+                                                </div> --}}
                                                 <div class="review_count">
                                                     <span>2 Ratting (S)</span>
                                                 </div>
                                             </div>
                                             <div class="price_amount">
-                                                <span class="current_price">$2999.99</span>
-                                                <span class="discount_price">-15%</span>
-                                                <span class="old_price">$3700.00</span>
+                                                <span class="current_price">${{ $product->price_new }}</span>
+                                                <span class="discount_price">-%</span>
+                                                <span class="old_price">${{ $product->price }}</span>
                                             </div>
-                                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmol tempor incidid ut labore et dolore magna aliqua. Ut enim ad minim veni quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in</p>
+                                            <p>Không có khuyến cáo cụ thể về thời hạn hay quãng đường sử dụng dành cho ruột bánh xe, thông thường mình sẽ thay mới khi ruột xe đã bị lủng 3-4 lần, hoặc khi bánh xe thường xuyên bị non hơi do vòi bị hỏng. Ngoài ra còn có những trường hợp bất khả kháng như cán đinh nặng khiến ruột bị xé rách không thể dùng tiếp.
+                                            </p>
                                             <div class="product_variant_select">
                                                 <div class="select-option-part">
-                                                    <label>Kích cỡ</label>
+                                                    <label>Kích thước</label>
                                                     <select class="nice-select">
-                                                        <option value="">- Lựa chọn của bạn -</option>
-                                                        <option value="">xl</option>
-                                                        <option value="">ml</option>
-                                                        <option value="">m</option>
-                                                        <option value="">sl</option>
+                                                        <option value="">Lựa chọn kích thước</option>
+                                                        <option value="">1</option>
+                                                        <option value="">2</option>
+                                                        <option value="">3</option>
+                                                        <option value="">4</option>
                                                     </select>
                                                 </div>
                                                 <div class="select-option-part">
                                                     <label>Màu sắc</label>
                                                     <select class="nice-select">
-                                                        <option value="">- lựa chọn của bạn -</option>
+                                                        <option value="">- chọn màu sắc -</option>
                                                         <option value="">Cam</option>
                                                         <option value="">Hồng</option>
                                                         <option value="">Vàng</option>
+                                                        <option value="">Đen</option>
+                                                        <option value="">Xanh</option>
                                                     </select>
                                                 </div>
                                             </div>
+                                            <form action="{{ route('orders.addToCart',$product->id) }}" method="post">
+                                                @csrf
                                             <div class="single_product_action d-flex align-items-center">
                                                 <div class="cart-plus-minus">
-                                                    <input type="text" value="02" name="qtybutton" class="cart-plus-minus-box">
+                                                    <input type="text" value="1"  name="qtybutton" class="cart-plus-minus-box">
                                                 </div>
                                                 <div class="add_to_cart_btn">
-                                                    <a href="product-details.html#">thêm vào giỏ hàng</a>
+                                                    <button>Thêm vào giỏ hàng</button>
                                                 </div>
                                                 <div class="wishlist">
-                                                    <a href="product-details.html#"><i class="zmdi zmdi-favorite-outline"></i></a>
+                                                    <a href="product-details.html#"><i class="fas fa-cart-plus"></i></a>
                                                 </div>
                                             </div>
+                                            </form>
                                             <div class="product_details_cat_list mt-35">
                                                 <div class="categories_label">
                                                     <span>Phụ tùng khác:</span>
@@ -204,24 +227,24 @@
                                                 <ul>
                                                     <li>
                                                         <a href="product-details.html#">
-                                                            <i class="zmdi zmdi-facebook"></i>
+                                                            <i class="fab fa-facebook-f"></i>
                                                         </a>
                                                     </li>
                                                     <li>
                                                         <a href="product-details.html#">
-                                                            <i class="zmdi zmdi-twitter"></i>
+                                                           <i class="fab fa-twitter"></i>
                                                         </a>
                                                     </li>
                                                     <li>
                                                         <a href="product-details.html#">
-                                                            <i class="zmdi zmdi-google-plus"></i>
+                                                           <i class="fab fa-instagram"></i>
                                                         </a>
                                                     </li>
-                                                    <li>
+                                                    {{-- <li>
                                                         <a href="product-details.html#">
                                                             <i class="zmdi zmdi-pinterest"></i>
                                                         </a>
-                                                    </li>
+                                                    </li> --}}
                                                 </ul>
                                             </div>
                                         </div>
@@ -234,13 +257,22 @@
                                         <div class="row">
                                             <div class="col-sm-12">
                                                 <ul class="product_desc_tab nav" role="tablist">
-                                                    <li><a class="active" data-toggle="tab" href="product-details-sidebar.html#dtail">Description</a></li>
+                                                    <li><a class="active" data-toggle="tab" href="product-details-sidebar.html#dtail">Mô tả ngắn</a></li>
                                                     <li><a data-toggle="tab" href="product-details-sidebar.html#review">Reviews 1</a></li>
                                                 </ul>
                                                 <!-- Product Thumbnail Tab Content Start -->
                                                 <div class="tab-content thumb-content mt-30">
                                                     <div id="dtail" class="tab-pane fade show active">
-                                                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut praesentium quibusdam voluptates eaque odio porro velit consequuntur repudiandae neque voluptatibus numquam pariatur autem omnis iure fugit commodi, voluptas sapiente ipsum, iusto, architecto totam libero eligendi incidunt. Maiores quasi aperiam culpa quibusdam ducimus, nemo placeat nihil suscipit dolorum commodi inventore soluta incidunt sint.</p>
+                                                        <p>Tiêu chuẩn Châu Âu: E4
+                                                           – Đạt tiêu chuẩn: Jis K6366</br>
+                                                            – Lốp được thiết kế lớp innerliner trong lòng lốp chống thấm khí.</br>
+                                                            – Thân lốp được kết cấu mành chéo cứng vững được bao bọc từ đỉnh đến gót lốp.</br>
+                                                            – Gót lốp được thiết kế cứng vững, phù hợp các loại vành, các hãng lắp ráp </br>
+                                                            – Cao su lốp được nghiên cứu và pha chế với công thức tôi ưu.
+                                                            – Fireking lấy cảm hứng từ lửa, kết hợp với khối gai 3D độc đáo cá tính, tạo phong cách thời trang, mạnh mẽ.</br>
+                                                            – Kiểu dáng thời trang tạo nên sự mạnh mẽ và cá tính, bám đường tốt, phù hợp đường trường tốc độ cao, tiết kiệm nhiên liêu .</br>
+                                                            – Hoa gai dùng cho lốp trước và sau.</br>
+                                                        </p>
                                                     </div>
                                                     <div id="review" class="tab-pane fade">
                                                         <!-- Reviews Start -->
@@ -338,7 +370,7 @@
                                     <div class="row">
                                         <div class="col-12">
                                             <div class="section_title">
-                                                <h2>Related Product</h2>
+                                                <h2>Sản phẩm liên quan</h2>
                                             </div>
                                         </div>
                                     </div>

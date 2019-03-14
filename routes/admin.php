@@ -8,7 +8,7 @@ Route::resource('distributions', 'Admin\Distribution\DistributionController');
 Route::resource('users','Admin\User\UserController');
 Route::resource('members','Admin\Admins\AdminsController');
 Route::resource('orders','Admin\Order\OrderController');
-
+Route::resource('group_products','Admin\GroupProduct\GroupProductController');
 
 Route::get('logout', 'Admin\Auth\LoginController@logout')->name('logout');
 

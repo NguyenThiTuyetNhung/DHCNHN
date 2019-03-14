@@ -28,8 +28,14 @@ class WebsiteController extends Controller
     {
     	return view('website.login');
     }
-    public function getProductDetail()
+    public function getProductDetail($id)
     {
-        return view('website.product-detail');
+        $product = Product::findOrFail($id);
+        return view('website.product-detail', compact('product'));
+    }
+     public function getSize($id)
+    {
+        $size = Size::findOrFail($id);
+        return view('website.size', compact('size'));
     }
 }
