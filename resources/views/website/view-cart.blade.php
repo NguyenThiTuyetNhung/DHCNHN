@@ -4,7 +4,6 @@
 @section('content')
 <!-- PAGE SECTION START -->
 <div class="cart_page_area pt-100 pb-60">
- <form action="cart.html#">
     <div class="container">
         <div class="row">
             <div class="col-12">
@@ -55,14 +54,10 @@
                     <div class="table-responsive">
                         <table>
                             <tbody>
-                                <tr class="cart-subtotal">
-                                    <th>Tổng phụ:</th>
-                                    <td><span class="amount">$306.00</span></td>
-                                </tr>
                                 <tr class="order-total">
-                                    <th>Toàn bộ:</th>
+                                    <th>Tổng tiền: </th>
                                     <td>
-                                        <strong><span class="amount">$306.00</span></strong>
+                                        <strong><span class="amount">{{Cart::subtotal()}}</span></strong>
                                     </td>
                                 </tr>                                           
                             </tbody>
@@ -70,7 +65,16 @@
                     </div>
 
                     <div class="proceed-to-checkout section mt-30">
-                        <a href="cart.html#">Tiến hành thanh toán</a>
+                        @if(Auth::check())
+                            <form action="{{route('orders.adđ')}}" method="post">
+                                <input type="hidden" name="_token" value="{{csrf_token()}}">
+                                <input type="hidden" value="" name="cart" id="cart">
+                                <input type="hidden" value="" name="list_product">
+                                <button type="submit" class="buy-class" style="">Tiến hành thanh toán <i class="fa fa-chevron-right"></i></button>
+                            </form>
+                        @else
+                            <a href="{{route('product.login')}}">Đăng nhập</a>
+                        @endif
                     </div>
                 </div>
             </div>
@@ -78,7 +82,6 @@
 
         </div>
     </div>
-</form> 
 </div>
 <!-- PAGE SECTION END --> 
 @endsection
