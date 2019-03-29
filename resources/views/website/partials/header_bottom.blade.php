@@ -71,7 +71,11 @@
                                     <div class="header_right_info">
                                         <ul>
                                             <!-- <li><a href="wishlist.html">Wishlist<span> <i class="zmdi zmdi-favorite-outline"></i> (0) </span></a></li> -->
-                                            <li> <a href="{{ route('product.login') }}">Đăng nhập</a></li>                                                
+                                            @if(Auth::check())
+                                                <li>Xin chào : <a href="#">{{Auth::user()->name}}</a></li>
+                                            @else
+                                                <li> <a href="{{ route('product.login') }}">Đăng nhập</a></li>
+                                            @endif
                                         </ul>
                                     </div>
                                 </div>

@@ -13,14 +13,15 @@
                                         <h2>Đăng nhập</h2>
                                     </div>
                                     <div class="login_form login">
-                                        <form action="login.html#">
+                                        <form action="{{route('product.login.post')}}" method="post">
+                                            @csrf
                                             <div class="login_input">
                                                 <label>Nhập email hoặc tài khoản <span>*</span></label>
-                                                <input type="text">
+                                                <input type="text" name="email">
                                             </div>
                                             <div class="login_input">
                                                 <label>Nhập mật khẩu<span>*</span></label>
-                                                <input type="password">
+                                                <input type="password" name="password">
                                             </div>
                                             <div class="login_submit">
                                                 <button type="submit">Đăng nhập</button>

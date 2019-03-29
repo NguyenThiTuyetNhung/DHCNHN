@@ -41,7 +41,7 @@ return [
             'provider' => 'users',
         ],
 
-        'api' => [
+        'users' => [
             'driver' => 'token',
             'provider' => 'users',
         ],

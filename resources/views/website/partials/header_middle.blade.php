@@ -7,7 +7,7 @@
                             <div class="row align-items-center">
                                 <div class="col-lg-3 col-md-3">
                                     <div class="logo">
-                                        <a href="index.html"><img src="{{ asset('uploads/logo.png') }}" alt="exporso logo"></a>
+                                        <a href="{{route('homepage')}}"><img src="{{ asset('uploads/logo.png') }}" alt="exporso logo"></a>
                                     </div>
                                 </div>
                                 <div class="col-lg-7 col-md-8">
