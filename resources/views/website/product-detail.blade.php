@@ -55,8 +55,7 @@
                                             </div>
                                         </div>
                                     </div>      
-                                                         
-                                    
+
                                     <div class="sidebar_widget mb-50">
                                         <div class="widget_title">
                                             <h3>Màu sắc</h3>
@@ -290,7 +289,7 @@
                                                                     <i class="fa fa-star"></i>
                                                                     <i class="fa fa-star"></i>
                                                                     <i class="fa fa-star"></i>
-                                                                    <i class="fa fa-star-o"></i>
+                                                                    <i class="fa f  a-star-o"></i>
                                                                     <label>Posted on 12/20/18</label>
                                                                 </li>
                                                                 <!-- Single Review List End -->
@@ -381,11 +380,11 @@
                                                     <a href="product-details-sidebar.html#"><img src="assets/img/product/home2/4.png" alt=""></a>
                                                 </div>
                                                 <div class="product_hover">
-                                                    <div class="product_action">
+                                                   {{--  <div class="product_action">
                                                         <a href="product-details-sidebar.html#" title="Add To Cart"><i class="zmdi zmdi-shopping-cart-plus"></i></a>
                                                         <a href="product-details-sidebar.html#" title="Wishlist"><i class="zmdi zmdi-favorite-outline"></i></a>
                                                         <a href="product-details-sidebar.html#" title="Compare"><i class="zmdi zmdi-refresh-alt"></i></a>
-                                                    </div>
+                                                    </div> --}}
                                                     <div class="product__desc">
                                                         <h3><a href="product-details.html">Soffer Pro x33</a></h3>
                                                         <div class="price_amount">
@@ -403,11 +402,11 @@
                                                     <a href="product-details-sidebar.html#"><img src="assets/img/product/home2/5.png" alt=""></a>
                                                 </div>
                                                 <div class="product_hover">
-                                                    <div class="product_action">
+                                                   {{--  <div class="product_action">
                                                         <a href="product-details-sidebar.html#" title="Add To Cart"><i class="zmdi zmdi-shopping-cart-plus"></i></a>
                                                         <a href="product-details-sidebar.html#" title="Wishlist"><i class="zmdi zmdi-favorite-outline"></i></a>
                                                         <a href="product-details-sidebar.html#" title="Compare"><i class="zmdi zmdi-refresh-alt"></i></a>
-                                                    </div>
+                                                    </div> --}}
                                                     <div class="product__desc">
                                                         <h3><a href="product-details.html">Soffer Pro x33</a></h3>
                                                         <div class="price_amount">
@@ -425,11 +424,11 @@
                                                     <a href="product-details-sidebar.html#"><img src="assets/img/product/home2/6.png" alt=""></a>
                                                 </div>
                                                 <div class="product_hover">
-                                                    <div class="product_action">
+                                                   {{--  <div class="product_action">
                                                         <a href="product-details-sidebar.html#" title="Add To Cart"><i class="zmdi zmdi-shopping-cart-plus"></i></a>
                                                         <a href="product-details-sidebar.html#" title="Wishlist"><i class="zmdi zmdi-favorite-outline"></i></a>
                                                         <a href="product-details-sidebar.html#" title="Compare"><i class="zmdi zmdi-refresh-alt"></i></a>
-                                                    </div>
+                                                    </div> --}}
                                                     <div class="product__desc">
                                                         <h3><a href="product-details.html">Soffer Pro x33</a></h3>
                                                         <div class="price_amount">
@@ -447,11 +446,11 @@
                                                     <a href="product-details-sidebar.html#"><img src="assets/img/product/home2/7.png" alt=""></a>
                                                 </div>
                                                 <div class="product_hover">
-                                                    <div class="product_action">
+                                                   {{--  <div class="product_action">
                                                         <a href="product-details-sidebar.html#" title="Add To Cart"><i class="zmdi zmdi-shopping-cart-plus"></i></a>
                                                         <a href="product-details-sidebar.html#" title="Wishlist"><i class="zmdi zmdi-favorite-outline"></i></a>
                                                         <a href="product-details-sidebar.html#" title="Compare"><i class="zmdi zmdi-refresh-alt"></i></a>
-                                                    </div>
+                                                    </div> --}}
                                                     <div class="product__desc">
                                                         <h3><a href="product-details.html">Soffer Pro x33</a></h3>
                                                         <div class="price_amount">
@@ -469,11 +468,11 @@
                                                     <a href="product-details-sidebar.html#"><img src="assets/img/product/home2/8.png" alt=""></a>
                                                 </div>
                                                 <div class="product_hover">
-                                                    <div class="product_action">
+                                                   {{--  <div class="product_action">
                                                         <a href="product-details-sidebar.html#" title="Add To Cart"><i class="zmdi zmdi-shopping-cart-plus"></i></a>
                                                         <a href="product-details-sidebar.html#" title="Wishlist"><i class="zmdi zmdi-favorite-outline"></i></a>
                                                         <a href="product-details-sidebar.html#" title="Compare"><i class="zmdi zmdi-refresh-alt"></i></a>
-                                                    </div>
+                                                    </div> --}}
                                                     <div class="product__desc">
                                                         <h3><a href="product-details.html">Soffer Pro x33</a></h3>
                                                         <div class="price_amount">
@@ -491,11 +490,11 @@
                                                     <a href="product-details-sidebar.html#"><img src="assets/img/product/home2/9.png" alt=""></a>
                                                 </div>
                                                 <div class="product_hover">
-                                                    <div class="product_action">
+                                                   {{--  <div class="product_action">
                                                         <a href="product-details-sidebar.html#" title="Add To Cart"><i class="zmdi zmdi-shopping-cart-plus"></i></a>
                                                         <a href="product-details-sidebar.html#" title="Wishlist"><i class="zmdi zmdi-favorite-outline"></i></a>
                                                         <a href="product-details-sidebar.html#" title="Compare"><i class="zmdi zmdi-refresh-alt"></i></a>
-                                                    </div>
+                                                    </div> --}}
                                                     <div class="product__desc">
                                                         <h3><a href="product-details.html">Soffer Pro x33</a></h3>
                                                         <div class="price_amount">

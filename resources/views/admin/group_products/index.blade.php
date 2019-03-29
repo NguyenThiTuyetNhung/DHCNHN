@@ -7,7 +7,7 @@
     <div class="container-fluid">
       <div class="row mb-2">
         <div class="col-sm-3">
-          <h1>Danh sách sản phẩm</h1>
+          <h1>Danh sách nhóm sản phẩm</h1>
         </div>
         <div class="col-sm-9">
           <a href="{{ route('admin.group_products.create') }}" class="btn btn-primary">Thêm mới</a>
@@ -33,8 +33,8 @@
                         <input type="text" class="form-control" name="name" placeholder="Nhập từ khóa tìm kiếm ..." value="{{ request('name') }}">
                       </div>
                     </div>
-                 <!--  <div class="col-md-3">
-                   <div class="form-group">
+                  <div class="col-md-3">
+                {{--    <div class="form-group">
                      <label>Từ ngày:</label>
                      <div class="input-group">
                        <div class="input-group-prepend">
@@ -56,7 +56,7 @@
                      </div>
                      /.input group
                    </div>
-                 </div> -->
+                 </div> --}}
                  <div class="col-md-3" style="margin: 30px 0;" >
                   <button type="submit" class="btn btn-primary">Tìm kiếm</button>
                 </div>
@@ -99,7 +99,7 @@
             @csrf @method('DELETE')
             <div class="modal-content">
               <div class="modal-body">
-                <p>Bạn có muốn xóa sản phẩm không ?</p>
+                <p>Bạn có muốn xóa nhóm sản phẩm này không ?</p>
               </div>
               <div class="modal-footer">
                 <button type="submit" class="btn btn-info">Có</button>

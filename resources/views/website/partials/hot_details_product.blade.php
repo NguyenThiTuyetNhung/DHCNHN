@@ -54,11 +54,7 @@
                                                         <a href="product-details.html"><img src="assets/img/product/1.png" alt=""></a>
                                                     </div>
                                                     <div class="product_hover">
-                                                        <div class="product_action">
-                                                            <a href="index.html#" title="Add To Cart"><i class="zmdi zmdi-shopping-cart-plus"></i></a>
-                                                            <a href="index.html#" title="Wishlist"><i class="zmdi zmdi-favorite-outline"></i></a>
-                                                            <a href="index.html#" title="Compare"><i class="zmdi zmdi-refresh-alt"></i></a>
-                                                        </div>
+                                                       
                                                         <div class="product__desc">
                                                             <h3><a href="product-details.html">Tandem Beach Cruiser</a></h3>
                                                             <div class="price_amount">
@@ -76,11 +72,7 @@
                                                         <a href="product-details.html"><img src="assets/img/product/2.png" alt=""></a>
                                                     </div>
                                                     <div class="product_hover">
-                                                        <div class="product_action">
-                                                            <a href="index.html#" title="Add To Cart"><i class="zmdi zmdi-shopping-cart-plus"></i></a>
-                                                            <a href="index.html#" title="Wishlist"><i class="zmdi zmdi-favorite-outline"></i></a>
-                                                            <a href="index.html#" title="Compare"><i class="zmdi zmdi-refresh-alt"></i></a>
-                                                        </div>
+                                                       
                                                         <div class="product__desc">
                                                             <h3><a href="product-details.html">Soffer Pro x33</a></h3>
                                                             <div class="price_amount">
@@ -98,11 +90,7 @@
                                                         <a href="product-details.html"><img src="assets/img/product/3.png" alt=""></a>
                                                     </div>
                                                     <div class="product_hover">
-                                                        <div class="product_action">
-                                                            <a href="index.html#" title="Add To Cart"><i class="zmdi zmdi-shopping-cart-plus"></i></a>
-                                                            <a href="index.html#" title="Wishlist"><i class="zmdi zmdi-favorite-outline"></i></a>
-                                                            <a href="index.html#" title="Compare"><i class="zmdi zmdi-refresh-alt"></i></a>
-                                                        </div>
+                                                       
                                                         <div class="product__desc">
                                                             <h3><a href="product-details.html">Soffer Pro x33</a></h3>
                                                             <div class="price_amount">
@@ -120,11 +108,7 @@
                                                         <a href="product-details.html"><img src="assets/img/product/4.png" alt=""></a>
                                                     </div>
                                                     <div class="product_hover">
-                                                        <div class="product_action">
-                                                            <a href="index.html#" title="Add To Cart"><i class="zmdi zmdi-shopping-cart-plus"></i></a>
-                                                            <a href="index.html#" title="Wishlist"><i class="zmdi zmdi-favorite-outline"></i></a>
-                                                            <a href="index.html#" title="Compare"><i class="zmdi zmdi-refresh-alt"></i></a>
-                                                        </div>
+                                                       
                                                         <div class="product__desc">
                                                             <h3><a href="product-details.html">Soffer Pro x33</a></h3>
                                                             <div class="price_amount">
@@ -142,11 +126,7 @@
                                                         <a href="product-details.html"><img src="assets/img/product/5.png" alt=""></a>
                                                     </div>
                                                     <div class="product_hover">
-                                                        <div class="product_action">
-                                                            <a href="index.html#" title="Add To Cart"><i class="zmdi zmdi-shopping-cart-plus"></i></a>
-                                                            <a href="index.html#" title="Wishlist"><i class="zmdi zmdi-favorite-outline"></i></a>
-                                                            <a href="index.html#" title="Compare"><i class="zmdi zmdi-refresh-alt"></i></a>
-                                                        </div>
+                                                       
                                                         <div class="product__desc">
                                                             <h3><a href="product-details.html">Soffer Pro x33</a></h3>
                                                             <div class="price_amount">
@@ -164,11 +144,7 @@
                                                         <a href="product-details.html"><img src="assets/img/product/6.png" alt=""></a>
                                                     </div>
                                                     <div class="product_hover">
-                                                        <div class="product_action">
-                                                            <a href="index.html#" title="Add To Cart"><i class="zmdi zmdi-shopping-cart-plus"></i></a>
-                                                            <a href="index.html#" title="Wishlist"><i class="zmdi zmdi-favorite-outline"></i></a>
-                                                            <a href="index.html#" title="Compare"><i class="zmdi zmdi-refresh-alt"></i></a>
-                                                        </div>
+                                                       
                                                         <div class="product__desc">
                                                             <h3><a href="product-details.html">Soffer Pro x33</a></h3>
                                                             <div class="price_amount">
@@ -190,11 +166,7 @@
                                                         <a href="product-details.html"><img src="assets/img/product/1.png" alt=""></a>
                                                     </div>
                                                     <div class="product_hover">
-                                                        <div class="product_action">
-                                                            <a href="index.html#" title="Add To Cart"><i class="zmdi zmdi-shopping-cart-plus"></i></a>
-                                                            <a href="index.html#" title="Wishlist"><i class="zmdi zmdi-favorite-outline"></i></a>
-                                                            <a href="index.html#" title="Compare"><i class="zmdi zmdi-refresh-alt"></i></a>
-                                                        </div>
+                                                       
                                                         <div class="product__desc">
                                                             <h3><a href="product-details.html">Soffer Pro x33</a></h3>
                                                             <div class="price_amount">
@@ -212,11 +184,7 @@
                                                         <a href="product-details.html"><img src="assets/img/product/2.png" alt=""></a>
                                                     </div>
                                                     <div class="product_hover">
-                                                        <div class="product_action">
-                                                            <a href="index.html#" title="Add To Cart"><i class="zmdi zmdi-shopping-cart-plus"></i></a>
-                                                            <a href="index.html#" title="Wishlist"><i class="zmdi zmdi-favorite-outline"></i></a>
-                                                            <a href="index.html#" title="Compare"><i class="zmdi zmdi-refresh-alt"></i></a>
-                                                        </div>
+                                                       
                                                         <div class="product__desc">
                                                             <h3><a href="product-details.html">Soffer Pro x33</a></h3>
                                                             <div class="price_amount">
@@ -234,11 +202,7 @@
                                                         <a href="product-details.html"><img src="assets/img/product/3.png" alt=""></a>
                                                     </div>
                                                     <div class="product_hover">
-                                                        <div class="product_action">
-                                                            <a href="index.html#" title="Add To Cart"><i class="zmdi zmdi-shopping-cart-plus"></i></a>
-                                                            <a href="index.html#" title="Wishlist"><i class="zmdi zmdi-favorite-outline"></i></a>
-                                                            <a href="index.html#" title="Compare"><i class="zmdi zmdi-refresh-alt"></i></a>
-                                                        </div>
+                                                       
                                                         <div class="product__desc">
                                                             <h3><a href="product-details.html">Soffer Pro x33</a></h3>
                                                             <div class="price_amount">
@@ -256,11 +220,7 @@
                                                         <a href="product-details.html"><img src="assets/img/product/4.png" alt=""></a>
                                                     </div>
                                                     <div class="product_hover">
-                                                        <div class="product_action">
-                                                            <a href="index.html#" title="Add To Cart"><i class="zmdi zmdi-shopping-cart-plus"></i></a>
-                                                            <a href="index.html#" title="Wishlist"><i class="zmdi zmdi-favorite-outline"></i></a>
-                                                            <a href="index.html#" title="Compare"><i class="zmdi zmdi-refresh-alt"></i></a>
-                                                        </div>
+                                                       
                                                         <div class="product__desc">
                                                             <h3><a href="product-details.html">Soffer Pro x33</a></h3>
                                                             <div class="price_amount">
@@ -278,11 +238,7 @@
                                                         <a href="product-details.html"><img src="assets/img/product/5.png" alt=""></a>
                                                     </div>
                                                     <div class="product_hover">
-                                                        <div class="product_action">
-                                                            <a href="index.html#" title="Add To Cart"><i class="zmdi zmdi-shopping-cart-plus"></i></a>
-                                                            <a href="index.html#" title="Wishlist"><i class="zmdi zmdi-favorite-outline"></i></a>
-                                                            <a href="index.html#" title="Compare"><i class="zmdi zmdi-refresh-alt"></i></a>
-                                                        </div>
+                                                       
                                                         <div class="product__desc">
                                                             <h3><a href="product-details.html">Soffer Pro x33</a></h3>
                                                             <div class="price_amount">
@@ -300,11 +256,7 @@
                                                         <a href="product-details.html"><img src="assets/img/product/6.png" alt=""></a>
                                                     </div>
                                                     <div class="product_hover">
-                                                        <div class="product_action">
-                                                            <a href="index.html#" title="Add To Cart"><i class="zmdi zmdi-shopping-cart-plus"></i></a>
-                                                            <a href="index.html#" title="Wishlist"><i class="zmdi zmdi-favorite-outline"></i></a>
-                                                            <a href="index.html#" title="Compare"><i class="zmdi zmdi-refresh-alt"></i></a>
-                                                        </div>
+                                                       
                                                         <div class="product__desc">
                                                             <h3><a href="product-details.html">Soffer Pro x33</a></h3>
                                                             <div class="price_amount">
@@ -326,11 +278,7 @@
                                                         <a href="product-details.html"><img src="assets/img/product/1.png" alt=""></a>
                                                     </div>
                                                     <div class="product_hover">
-                                                        <div class="product_action">
-                                                            <a href="index.html#" title="Add To Cart"><i class="zmdi zmdi-shopping-cart-plus"></i></a>
-                                                            <a href="index.html#" title="Wishlist"><i class="zmdi zmdi-favorite-outline"></i></a>
-                                                            <a href="index.html#" title="Compare"><i class="zmdi zmdi-refresh-alt"></i></a>
-                                                        </div>
+                                                       
                                                         <div class="product__desc">
                                                             <h3><a href="product-details.html">Soffer Pro x33</a></h3>
                                                             <div class="price_amount">
@@ -348,11 +296,7 @@
                                                         <a href="product-details.html"><img src="assets/img/product/2.png" alt=""></a>
                                                     </div>
                                                     <div class="product_hover">
-                                                        <div class="product_action">
-                                                            <a href="index.html#" title="Add To Cart"><i class="zmdi zmdi-shopping-cart-plus"></i></a>
-                                                            <a href="index.html#" title="Wishlist"><i class="zmdi zmdi-favorite-outline"></i></a>
-                                                            <a href="index.html#" title="Compare"><i class="zmdi zmdi-refresh-alt"></i></a>
-                                                        </div>
+                                                       
                                                         <div class="product__desc">
                                                             <h3><a href="product-details.html">Soffer Pro x33</a></h3>
                                                             <div class="price_amount">
@@ -370,11 +314,7 @@
                                                         <a href="product-details.html"><img src="assets/img/product/3.png" alt=""></a>
                                                     </div>
                                                     <div class="product_hover">
-                                                        <div class="product_action">
-                                                            <a href="index.html#" title="Add To Cart"><i class="zmdi zmdi-shopping-cart-plus"></i></a>
-                                                            <a href="index.html#" title="Wishlist"><i class="zmdi zmdi-favorite-outline"></i></a>
-                                                            <a href="index.html#" title="Compare"><i class="zmdi zmdi-refresh-alt"></i></a>
-                                                        </div>
+                                                       
                                                         <div class="product__desc">
                                                             <h3><a href="product-details.html">Soffer Pro x33</a></h3>
                                                             <div class="price_amount">
@@ -392,11 +332,7 @@
                                                         <a href="product-details.html"><img src="assets/img/product/4.png" alt=""></a>
                                                     </div>
                                                     <div class="product_hover">
-                                                        <div class="product_action">
-                                                            <a href="index.html#" title="Add To Cart"><i class="zmdi zmdi-shopping-cart-plus"></i></a>
-                                                            <a href="index.html#" title="Wishlist"><i class="zmdi zmdi-favorite-outline"></i></a>
-                                                            <a href="index.html#" title="Compare"><i class="zmdi zmdi-refresh-alt"></i></a>
-                                                        </div>
+                                                       
                                                         <div class="product__desc">
                                                             <h3><a href="product-details.html">Soffer Pro x33</a></h3>
                                                             <div class="price_amount">
@@ -414,11 +350,7 @@
                                                         <a href="product-details.html"><img src="assets/img/product/5.png" alt=""></a>
                                                     </div>
                                                     <div class="product_hover">
-                                                        <div class="product_action">
-                                                            <a href="index.html#" title="Add To Cart"><i class="zmdi zmdi-shopping-cart-plus"></i></a>
-                                                            <a href="index.html#" title="Wishlist"><i class="zmdi zmdi-favorite-outline"></i></a>
-                                                            <a href="index.html#" title="Compare"><i class="zmdi zmdi-refresh-alt"></i></a>
-                                                        </div>
+                                                       
                                                         <div class="product__desc">
                                                             <h3><a href="product-details.html">Soffer Pro x33</a></h3>
                                                             <div class="price_amount">
@@ -436,11 +368,7 @@
                                                         <a href="product-details.html"><img src="assets/img/product/6.png" alt=""></a>
                                                     </div>
                                                     <div class="product_hover">
-                                                        <div class="product_action">
-                                                            <a href="index.html#" title="Add To Cart"><i class="zmdi zmdi-shopping-cart-plus"></i></a>
-                                                            <a href="index.html#" title="Wishlist"><i class="zmdi zmdi-favorite-outline"></i></a>
-                                                            <a href="index.html#" title="Compare"><i class="zmdi zmdi-refresh-alt"></i></a>
-                                                        </div>
+                                                       
                                                         <div class="product__desc">
                                                             <h3><a href="product-details.html">Soffer Pro x33</a></h3>
                                                             <div class="price_amount">
@@ -462,11 +390,7 @@
                                                         <a href="product-details.html"><img src="assets/img/product/1.png" alt=""></a>
                                                     </div>
                                                     <div class="product_hover">
-                                                        <div class="product_action">
-                                                            <a href="index.html#" title="Add To Cart"><i class="zmdi zmdi-shopping-cart-plus"></i></a>
-                                                            <a href="index.html#" title="Wishlist"><i class="zmdi zmdi-favorite-outline"></i></a>
-                                                            <a href="index.html#" title="Compare"><i class="zmdi zmdi-refresh-alt"></i></a>
-                                                        </div>
+                                                       
                                                         <div class="product__desc">
                                                             <h3><a href="product-details.html">Soffer Pro x33</a></h3>
                                                             <div class="price_amount">
@@ -484,11 +408,7 @@
                                                         <a href="product-details.html"><img src="assets/img/product/2.png" alt=""></a>
                                                     </div>
                                                     <div class="product_hover">
-                                                        <div class="product_action">
-                                                            <a href="index.html#" title="Add To Cart"><i class="zmdi zmdi-shopping-cart-plus"></i></a>
-                                                            <a href="index.html#" title="Wishlist"><i class="zmdi zmdi-favorite-outline"></i></a>
-                                                            <a href="index.html#" title="Compare"><i class="zmdi zmdi-refresh-alt"></i></a>
-                                                        </div>
+                                                       
                                                         <div class="product__desc">
                                                             <h3><a href="product-details.html">Soffer Pro x33</a></h3>
                                                             <div class="price_amount">
@@ -506,11 +426,7 @@
                                                         <a href="product-details.html"><img src="assets/img/product/3.png" alt=""></a>
                                                     </div>
                                                     <div class="product_hover">
-                                                        <div class="product_action">
-                                                            <a href="index.html#" title="Add To Cart"><i class="zmdi zmdi-shopping-cart-plus"></i></a>
-                                                            <a href="index.html#" title="Wishlist"><i class="zmdi zmdi-favorite-outline"></i></a>
-                                                            <a href="index.html#" title="Compare"><i class="zmdi zmdi-refresh-alt"></i></a>
-                                                        </div>
+                                                       
                                                         <div class="product__desc">
                                                             <h3><a href="product-details.html">Soffer Pro x33</a></h3>
                                                             <div class="price_amount">
@@ -528,11 +444,7 @@
                                                         <a href="product-details.html"><img src="assets/img/product/4.png" alt=""></a>
                                                     </div>
                                                     <div class="product_hover">
-                                                        <div class="product_action">
-                                                            <a href="index.html#" title="Add To Cart"><i class="zmdi zmdi-shopping-cart-plus"></i></a>
-                                                            <a href="index.html#" title="Wishlist"><i class="zmdi zmdi-favorite-outline"></i></a>
-                                                            <a href="index.html#" title="Compare"><i class="zmdi zmdi-refresh-alt"></i></a>
-                                                        </div>
+                                                       
                                                         <div class="product__desc">
                                                             <h3><a href="product-details.html">Soffer Pro x33</a></h3>
                                                             <div class="price_amount">
@@ -550,11 +462,7 @@
                                                         <a href="product-details.html"><img src="assets/img/product/5.png" alt=""></a>
                                                     </div>
                                                     <div class="product_hover">
-                                                        <div class="product_action">
-                                                            <a href="index.html#" title="Add To Cart"><i class="zmdi zmdi-shopping-cart-plus"></i></a>
-                                                            <a href="index.html#" title="Wishlist"><i class="zmdi zmdi-favorite-outline"></i></a>
-                                                            <a href="index.html#" title="Compare"><i class="zmdi zmdi-refresh-alt"></i></a>
-                                                        </div>
+                                                       
                                                         <div class="product__desc">
                                                             <h3><a href="product-details.html">Soffer Pro x33</a></h3>
                                                             <div class="price_amount">
@@ -572,11 +480,7 @@
                                                         <a href="product-details.html"><img src="assets/img/product/6.png" alt=""></a>
                                                     </div>
                                                     <div class="product_hover">
-                                                        <div class="product_action">
-                                                            <a href="index.html#" title="Add To Cart"><i class="zmdi zmdi-shopping-cart-plus"></i></a>
-                                                            <a href="index.html#" title="Wishlist"><i class="zmdi zmdi-favorite-outline"></i></a>
-                                                            <a href="index.html#" title="Compare"><i class="zmdi zmdi-refresh-alt"></i></a>
-                                                        </div>
+                                                       
                                                         <div class="product__desc">
                                                             <h3><a href="product-details.html">Soffer Pro x33</a></h3>
                                                             <div class="price_amount">
@@ -598,11 +502,7 @@
                                                         <a href="product-details.html"><img src="assets/img/product/1.png" alt=""></a>
                                                     </div>
                                                     <div class="product_hover">
-                                                        <div class="product_action">
-                                                            <a href="index.html#" title="Add To Cart"><i class="zmdi zmdi-shopping-cart-plus"></i></a>
-                                                            <a href="index.html#" title="Wishlist"><i class="zmdi zmdi-favorite-outline"></i></a>
-                                                            <a href="index.html#" title="Compare"><i class="zmdi zmdi-refresh-alt"></i></a>
-                                                        </div>
+                                                       
                                                         <div class="product__desc">
                                                             <h3><a href="product-details.html">Soffer Pro x33</a></h3>
                                                             <div class="price_amount">
@@ -620,11 +520,7 @@
                                                         <a href="product-details.html"><img src="assets/img/product/2.png" alt=""></a>
                                                     </div>
                                                     <div class="product_hover">
-                                                        <div class="product_action">
-                                                            <a href="index.html#" title="Add To Cart"><i class="zmdi zmdi-shopping-cart-plus"></i></a>
-                                                            <a href="index.html#" title="Wishlist"><i class="zmdi zmdi-favorite-outline"></i></a>
-                                                            <a href="index.html#" title="Compare"><i class="zmdi zmdi-refresh-alt"></i></a>
-                                                        </div>
+                                                       
                                                         <div class="product__desc">
                                                             <h3><a href="product-details.html">Soffer Pro x33</a></h3>
                                                             <div class="price_amount">
@@ -642,11 +538,7 @@
                                                         <a href="product-details.html"><img src="assets/img/product/3.png" alt=""></a>
                                                     </div>
                                                     <div class="product_hover">
-                                                        <div class="product_action">
-                                                            <a href="index.html#" title="Add To Cart"><i class="zmdi zmdi-shopping-cart-plus"></i></a>
-                                                            <a href="index.html#" title="Wishlist"><i class="zmdi zmdi-favorite-outline"></i></a>
-                                                            <a href="index.html#" title="Compare"><i class="zmdi zmdi-refresh-alt"></i></a>
-                                                        </div>
+                                                       
                                                         <div class="product__desc">
                                                             <h3><a href="product-details.html">Soffer Pro x33</a></h3>
                                                             <div class="price_amount">
@@ -664,11 +556,7 @@
                                                         <a href="product-details.html"><img src="assets/img/product/4.png" alt=""></a>
                                                     </div>
                                                     <div class="product_hover">
-                                                        <div class="product_action">
-                                                            <a href="index.html#" title="Add To Cart"><i class="zmdi zmdi-shopping-cart-plus"></i></a>
-                                                            <a href="index.html#" title="Wishlist"><i class="zmdi zmdi-favorite-outline"></i></a>
-                                                            <a href="index.html#" title="Compare"><i class="zmdi zmdi-refresh-alt"></i></a>
-                                                        </div>
+                                                       
                                                         <div class="product__desc">
                                                             <h3><a href="product-details.html">Soffer Pro x33</a></h3>
                                                             <div class="price_amount">
@@ -686,11 +574,7 @@
                                                         <a href="product-details.html"><img src="assets/img/product/5.png" alt=""></a>
                                                     </div>
                                                     <div class="product_hover">
-                                                        <div class="product_action">
-                                                            <a href="index.html#" title="Add To Cart"><i class="zmdi zmdi-shopping-cart-plus"></i></a>
-                                                            <a href="index.html#" title="Wishlist"><i class="zmdi zmdi-favorite-outline"></i></a>
-                                                            <a href="index.html#" title="Compare"><i class="zmdi zmdi-refresh-alt"></i></a>
-                                                        </div>
+                                                       
                                                         <div class="product__desc">
                                                             <h3><a href="product-details.html">Soffer Pro x33</a></h3>
                                                             <div class="price_amount">
@@ -708,11 +592,7 @@
                                                         <a href="product-details.html"><img src="assets/img/product/6.png" alt=""></a>
                                                     </div>
                                                     <div class="product_hover">
-                                                        <div class="product_action">
-                                                            <a href="index.html#" title="Add To Cart"><i class="zmdi zmdi-shopping-cart-plus"></i></a>
-                                                            <a href="index.html#" title="Wishlist"><i class="zmdi zmdi-favorite-outline"></i></a>
-                                                            <a href="index.html#" title="Compare"><i class="zmdi zmdi-refresh-alt"></i></a>
-                                                        </div>
+                                                       
                                                         <div class="product__desc">
                                                             <h3><a href="product-details.html">Soffer Pro x33</a></h3>
                                                             <div class="price_amount">
@@ -778,11 +658,7 @@
                                                         <a href="product-details.html"><img src="{{ $product->image }}" alt="{{ $product->name }}"></a>
                                                     </div>
                                                     <div class="product_hover">
-                                                        <div class="product_action">
-                                                            <a href="index.html#" title="Add To Cart"><i class="zmdi zmdi-shopping-cart-plus"></i></a>
-                                                            <a href="index.html#" title="Wishlist"><i class="zmdi zmdi-favorite-outline"></i></a>
-                                                            <a href="index.html#" title="Compare"><i class="zmdi zmdi-refresh-alt"></i></a>
-                                                        </div>
+                                                       
                                                         <div class="product__desc">
                                                             <h3><a href="product-details.html">{{ $product->name }} </a></h3>
                                                             <div class="price_amount">
@@ -801,11 +677,7 @@
                                                         <a href="product-details.html"><img src="assets/img/product/2.png" alt=""></a>
                                                     </div>
                                                     <div class="product_hover">
-                                                        <div class="product_action">
-                                                            <a href="index.html#" title="Add To Cart"><i class="zmdi zmdi-shopping-cart-plus"></i></a>
-                                                            <a href="index.html#" title="Wishlist"><i class="zmdi zmdi-favorite-outline"></i></a>
-                                                            <a href="index.html#" title="Compare"><i class="zmdi zmdi-refresh-alt"></i></a>
-                                                        </div>
+                                                       
                                                         <div class="product__desc">
                                                             <h3><a href="product-details.html">Soffer Pro x33</a></h3>
                                                             <div class="price_amount">
@@ -823,11 +695,7 @@
                                                         <a href="product-details.html"><img src="assets/img/product/3.png" alt=""></a>
                                                     </div>
                                                     <div class="product_hover">
-                                                        <div class="product_action">
-                                                            <a href="index.html#" title="Add To Cart"><i class="zmdi zmdi-shopping-cart-plus"></i></a>
-                                                            <a href="index.html#" title="Wishlist"><i class="zmdi zmdi-favorite-outline"></i></a>
-                                                            <a href="index.html#" title="Compare"><i class="zmdi zmdi-refresh-alt"></i></a>
-                                                        </div>
+                                                       
                                                         <div class="product__desc">
                                                             <h3><a href="product-details.html">Soffer Pro x33</a></h3>
                                                             <div class="price_amount">
@@ -849,11 +717,7 @@
                                                         <a href="product-details.html"><img src="assets/img/product/1.png" alt=""></a>
                                                     </div>
                                                     <div class="product_hover">
-                                                        <div class="product_action">
-                                                            <a href="index.html#" title="Add To Cart"><i class="zmdi zmdi-shopping-cart-plus"></i></a>
-                                                            <a href="index.html#" title="Wishlist"><i class="zmdi zmdi-favorite-outline"></i></a>
-                                                            <a href="index.html#" title="Compare"><i class="zmdi zmdi-refresh-alt"></i></a>
-                                                        </div>
+                                                       
                                                         <div class="product__desc">
                                                             <h3><a href="product-details.html">Soffer Pro x33</a></h3>
                                                             <div class="price_amount">
@@ -871,11 +735,7 @@
                                                         <a href="product-details.html"><img src="assets/img/product/2.png" alt=""></a>
                                                     </div>
                                                     <div class="product_hover">
-                                                        <div class="product_action">
-                                                            <a href="index.html#" title="Add To Cart"><i class="zmdi zmdi-shopping-cart-plus"></i></a>
-                                                            <a href="index.html#" title="Wishlist"><i class="zmdi zmdi-favorite-outline"></i></a>
-                                                            <a href="index.html#" title="Compare"><i class="zmdi zmdi-refresh-alt"></i></a>
-                                                        </div>
+                                                       
                                                         <div class="product__desc">
                                                             <h3><a href="product-details.html">Soffer Pro x33</a></h3>
                                                             <div class="price_amount">
@@ -893,11 +753,7 @@
                                                         <a href="product-details.html"><img src="assets/img/product/4.png" alt=""></a>
                                                     </div>
                                                     <div class="product_hover">
-                                                        <div class="product_action">
-                                                            <a href="index.html#" title="Add To Cart"><i class="zmdi zmdi-shopping-cart-plus"></i></a>
-                                                            <a href="index.html#" title="Wishlist"><i class="zmdi zmdi-favorite-outline"></i></a>
-                                                            <a href="index.html#" title="Compare"><i class="zmdi zmdi-refresh-alt"></i></a>
-                                                        </div>
+                                                       
                                                         <div class="product__desc">
                                                             <h3><a href="product-details.html">Soffer Pro x33</a></h3>
                                                             <div class="price_amount">
@@ -919,11 +775,7 @@
                                                         <a href="product-details.html"><img src="assets/img/product/1.png" alt=""></a>
                                                     </div>
                                                     <div class="product_hover">
-                                                        <div class="product_action">
-                                                            <a href="index.html#" title="Add To Cart"><i class="zmdi zmdi-shopping-cart-plus"></i></a>
-                                                            <a href="index.html#" title="Wishlist"><i class="zmdi zmdi-favorite-outline"></i></a>
-                                                            <a href="index.html#" title="Compare"><i class="zmdi zmdi-refresh-alt"></i></a>
-                                                        </div>
+                                                       
                                                         <div class="product__desc">
                                                             <h3><a href="product-details.html">Soffer Pro x33</a></h3>
                                                             <div class="price_amount">
@@ -941,11 +793,7 @@
                                                         <a href="product-details.html"><img src="assets/img/product/2.png" alt=""></a>
                                                     </div>
                                                     <div class="product_hover">
-                                                        <div class="product_action">
-                                                            <a href="index.html#" title="Add To Cart"><i class="zmdi zmdi-shopping-cart-plus"></i></a>
-                                                            <a href="index.html#" title="Wishlist"><i class="zmdi zmdi-favorite-outline"></i></a>
-                                                            <a href="index.html#" title="Compare"><i class="zmdi zmdi-refresh-alt"></i></a>
-                                                        </div>
+                                                       
                                                         <div class="product__desc">
                                                             <h3><a href="product-details.html">Soffer Pro x33</a></h3>
                                                             <div class="price_amount">
@@ -963,11 +811,7 @@
                                                         <a href="product-details.html"><img src="assets/img/product/4.png" alt=""></a>
                                                     </div>
                                                     <div class="product_hover">
-                                                        <div class="product_action">
-                                                            <a href="index.html#" title="Add To Cart"><i class="zmdi zmdi-shopping-cart-plus"></i></a>
-                                                            <a href="index.html#" title="Wishlist"><i class="zmdi zmdi-favorite-outline"></i></a>
-                                                            <a href="index.html#" title="Compare"><i class="zmdi zmdi-refresh-alt"></i></a>
-                                                        </div>
+                                                       
                                                         <div class="product__desc">
                                                             <h3><a href="product-details.html">Soffer Pro x33</a></h3>
                                                             <div class="price_amount">
@@ -989,11 +833,7 @@
                                                         <a href="product-details.html"><img src="assets/img/product/1.png" alt=""></a>
                                                     </div>
                                                     <div class="product_hover">
-                                                        <div class="product_action">
-                                                            <a href="index.html#" title="Add To Cart"><i class="zmdi zmdi-shopping-cart-plus"></i></a>
-                                                            <a href="index.html#" title="Wishlist"><i class="zmdi zmdi-favorite-outline"></i></a>
-                                                            <a href="index.html#" title="Compare"><i class="zmdi zmdi-refresh-alt"></i></a>
-                                                        </div>
+                                                       
                                                         <div class="product__desc">
                                                             <h3><a href="product-details.html">Soffer Pro x33</a></h3>
                                                             <div class="price_amount">
@@ -1011,11 +851,7 @@
                                                         <a href="product-details.html"><img src="assets/img/product/2.png" alt=""></a>
                                                     </div>
                                                     <div class="product_hover">
-                                                        <div class="product_action">
-                                                            <a href="index.html#" title="Add To Cart"><i class="zmdi zmdi-shopping-cart-plus"></i></a>
-                                                            <a href="index.html#" title="Wishlist"><i class="zmdi zmdi-favorite-outline"></i></a>
-                                                            <a href="index.html#" title="Compare"><i class="zmdi zmdi-refresh-alt"></i></a>
-                                                        </div>
+                                                       
                                                         <div class="product__desc">
                                                             <h3><a href="product-details.html">Soffer Pro x33</a></h3>
                                                             <div class="price_amount">
@@ -1033,11 +869,7 @@
                                                         <a href="product-details.html"><img src="assets/img/product/4.png" alt=""></a>
                                                     </div>
                                                     <div class="product_hover">
-                                                        <div class="product_action">
-                                                            <a href="index.html#" title="Add To Cart"><i class="zmdi zmdi-shopping-cart-plus"></i></a>
-                                                            <a href="index.html#" title="Wishlist"><i class="zmdi zmdi-favorite-outline"></i></a>
-                                                            <a href="index.html#" title="Compare"><i class="zmdi zmdi-refresh-alt"></i></a>
-                                                        </div>
+                                                       
                                                         <div class="product__desc">
                                                             <h3><a href="product-details.html">Soffer Pro x33</a></h3>
                                                             <div class="price_amount">
@@ -1059,11 +891,7 @@
                                                         <a href="product-details.html"><img src="assets/img/product/1.png" alt=""></a>
                                                     </div>
                                                     <div class="product_hover">
-                                                        <div class="product_action">
-                                                            <a href="index.html#" title="Add To Cart"><i class="zmdi zmdi-shopping-cart-plus"></i></a>
-                                                            <a href="index.html#" title="Wishlist"><i class="zmdi zmdi-favorite-outline"></i></a>
-                                                            <a href="index.html#" title="Compare"><i class="zmdi zmdi-refresh-alt"></i></a>
-                                                        </div>
+                                                       
                                                         <div class="product__desc">
                                                             <h3><a href="product-details.html">Soffer Pro x33</a></h3>
                                                             <div class="price_amount">
@@ -1081,11 +909,7 @@
                                                         <a href="product-details.html"><img src="assets/img/product/2.png" alt=""></a>
                                                     </div>
                                                     <div class="product_hover">
-                                                        <div class="product_action">
-                                                            <a href="index.html#" title="Add To Cart"><i class="zmdi zmdi-shopping-cart-plus"></i></a>
-                                                            <a href="index.html#" title="Wishlist"><i class="zmdi zmdi-favorite-outline"></i></a>
-                                                            <a href="index.html#" title="Compare"><i class="zmdi zmdi-refresh-alt"></i></a>
-                                                        </div>
+                                                       
                                                         <div class="product__desc">
                                                             <h3><a href="product-details.html">Soffer Pro x33</a></h3>
                                                             <div class="price_amount">
@@ -1103,11 +927,7 @@
                                                         <a href="product-details.html"><img src="assets/img/product/4.png" alt=""></a>
                                                     </div>
                                                     <div class="product_hover">
-                                                        <div class="product_action">
-                                                            <a href="index.html#" title="Add To Cart"><i class="zmdi zmdi-shopping-cart-plus"></i></a>
-                                                            <a href="index.html#" title="Wishlist"><i class="zmdi zmdi-favorite-outline"></i></a>
-                                                            <a href="index.html#" title="Compare"><i class="zmdi zmdi-refresh-alt"></i></a>
-                                                        </div>
+                                                       
                                                         <div class="product__desc">
                                                             <h3><a href="product-details.html">Soffer Pro x33</a></h3>
                                                             <div class="price_amount">
@@ -1129,11 +949,7 @@
                                                         <a href="product-details.html"><img src="assets/img/product/1.png" alt=""></a>
                                                     </div>
                                                     <div class="product_hover">
-                                                        <div class="product_action">
-                                                            <a href="index.html#" title="Add To Cart"><i class="zmdi zmdi-shopping-cart-plus"></i></a>
-                                                            <a href="index.html#" title="Wishlist"><i class="zmdi zmdi-favorite-outline"></i></a>
-                                                            <a href="index.html#" title="Compare"><i class="zmdi zmdi-refresh-alt"></i></a>
-                                                        </div>
+                                                       
                                                         <div class="product__desc">
                                                             <h3><a href="product-details.html">Soffer Pro x33</a></h3>
                                                             <div class="price_amount">
@@ -1151,11 +967,7 @@
                                                         <a href="product-details.html"><img src="assets/img/product/2.png" alt=""></a>
                                                     </div>
                                                     <div class="product_hover">
-                                                        <div class="product_action">
-                                                            <a href="index.html#" title="Add To Cart"><i class="zmdi zmdi-shopping-cart-plus"></i></a>
-                                                            <a href="index.html#" title="Wishlist"><i class="zmdi zmdi-favorite-outline"></i></a>
-                                                            <a href="index.html#" title="Compare"><i class="zmdi zmdi-refresh-alt"></i></a>
-                                                        </div>
+                                                       
                                                         <div class="product__desc">
                                                             <h3><a href="product-details.html">Soffer Pro x33</a></h3>
                                                             <div class="price_amount">
@@ -1173,11 +985,7 @@
                                                         <a href="product-details.html"><img src="assets/img/product/4.png" alt=""></a>
                                                     </div>
                                                     <div class="product_hover">
-                                                        <div class="product_action">
-                                                            <a href="index.html#" title="Add To Cart"><i class="zmdi zmdi-shopping-cart-plus"></i></a>
-                                                            <a href="index.html#" title="Wishlist"><i class="zmdi zmdi-favorite-outline"></i></a>
-                                                            <a href="index.html#" title="Compare"><i class="zmdi zmdi-refresh-alt"></i></a>
-                                                        </div>
+                                                       
                                                         <div class="product__desc">
                                                             <h3><a href="product-details.html">Soffer Pro x33</a></h3>
                                                             <div class="price_amount">
