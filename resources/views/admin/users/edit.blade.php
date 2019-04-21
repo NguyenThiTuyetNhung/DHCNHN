@@ -104,7 +104,7 @@
         </div>
         <!-- /.col -->
         <div class="col-md-1">
-          <button type="button" class="btn btn-block btn-danger">Hủy bỏ</button>
+          <a href="{{ route('admin.users.index') }}"> <button type="button" class="btn btn-block btn-danger">Hủy bỏ</button></a>
         </div>
         <!-- /.col -->
       </div>

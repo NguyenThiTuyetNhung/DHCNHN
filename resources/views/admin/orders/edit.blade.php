@@ -38,7 +38,7 @@
             </div>
             <div class="form-group">
               <label for="view">Địa chỉ giao hàng</label>
-              <input type="number" class="form-control" name="Address" id="Address" placeholder="Số lượng" value="{{ old('Address', $order->Address) }}">
+              <input type="text" class="form-control" name="Address" id="Address" placeholder="Địa chỉ" value="{{ old('Address', $order->Address) }}">
               <span class="text text-danger">{{ $errors->first('Address') }}</span>
             </div>
             <!-- /.form-group -->
@@ -88,7 +88,8 @@
         </div>
         <!-- /.col -->
         <div class="col-md-1">
-          <button type="button" class="btn btn-block btn-danger">Hủy bỏ</button>
+           <a href="{{ route('admin.orders.index') }}"><button type="button" class="btn btn-block btn-danger">Hủy bỏ</button></a>
+          
         </div>
         <!-- /.col -->
       </div>

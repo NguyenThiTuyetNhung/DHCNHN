@@ -105,8 +105,8 @@
         </div>
         <!-- /.col -->
         <div class="col-md-1">
-          <button type="button" class="btn btn-block btn-danger">Hủy bỏ</button>
-        </div>
+          <a href="{{ route('admin.products.index') }}"><button type="button" class="btn btn-block btn-danger">Hủy bỏ</button>
+        </div></a>
         <!-- /.col -->
       </div>
       <!--End Button -->

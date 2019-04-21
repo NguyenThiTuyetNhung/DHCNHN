@@ -36,7 +36,7 @@ class OrderController extends Controller
 		Order::findOrFail($id)->delete();
 		return redirect()->route('admin.orders.index');
 	}
-	public function update(Order $order, UpdateOrderRequest $request)
+	public function update(Order $order, Request $request)
 	{
 		$data = $request->all();
 		if ($request->hasFile('image')) {
@@ -60,4 +60,10 @@ class OrderController extends Controller
 		$data='abd';
 		return view('admin.orders.edit', compact('order','products','users','order_details','user'));
 	}
+	// public function destroy($id)
+	// {
+	// 	Order::findOrFail($id)->delete();
+	// 	return redirect()->route('admin.orders.index');
+	// }
+
 }
