@@ -159,11 +159,11 @@
                                                                     class="zmdi zmdi-refresh-alt"></i></a>
                                                         </div>
                                                         <div class="product__desc">
-                                                            <h3><a href="product-details.html">Soffer Pro x33</a></h3>
+                                                            <h3><a href="product-details.html">Nhông xích Mạnh Quang</a></h3>
                                                             <div class="price_amount">
-                                                                <span class="current_price">$2999.99</span>
-                                                                <span class="discount_price">-15%</span>
-                                                                <span class="old_price">$3700.00</span>
+                                                                <span class="current_price">225.000</span>
+                                                                <span class="discount_price">-10%</span>
+                                                                <span class="old_price">250.000</span>
                                                             </div>
                                                         </div>
                                                     </div>
@@ -185,10 +185,10 @@
                                                                     class="zmdi zmdi-refresh-alt"></i></a>
                                                         </div>
                                                         <div class="product__desc">
-                                                            <h3><a href="product-details.html">Soffer Pro x33</a></h3>
+                                                            <h3><a href="product-details.html">Bình ắc quy</a></h3>
                                                             <div class="price_amount">
-                                                                <span class="current_price">$2999.99</span>
-                                                                <span class="old_price">$3700.00</span>
+                                                                <span class="current_price">240.000</span>
+                                                                <span class="old_price">260.000</span>
                                                             </div>
                                                         </div>
                                                     </div>
@@ -211,10 +211,10 @@
                                                                     class="zmdi zmdi-refresh-alt"></i></a>
                                                         </div>
                                                         <div class="product__desc">
-                                                            <h3><a href="product-details.html">Soffer Pro x33</a></h3>
+                                                            <h3><a href="product-details.html">Pit tông</a></h3>
                                                             <div class="price_amount">
-                                                                <span class="current_price">$2999.99</span>
-                                                                <span class="old_price">$3700.00</span>
+                                                                <span class="current_price">300.000</span>
+                                                                <span class="old_price">300.000</span>
                                                             </div>
                                                         </div>
                                                     </div>
@@ -236,10 +236,10 @@
                                                                     class="zmdi zmdi-refresh-alt"></i></a>
                                                         </div>
                                                         <div class="product__desc">
-                                                            <h3><a href="product-details.html">Soffer Pro x33</a></h3>
+                                                            <h3><a href="product-details.html">Nhựa Dream Việt</a></h3>
                                                             <div class="price_amount">
-                                                                <span class="current_price">$2999.99</span>
-                                                                <span class="old_price">$3700.00</span>
+                                                                <span class="current_price">2.200.000</span>
+                                                                <span class="old_price">2.500.000</span>
                                                             </div>
                                                         </div>
                                                     </div>
@@ -262,10 +262,10 @@
                                                                     class="zmdi zmdi-refresh-alt"></i></a>
                                                         </div>
                                                         <div class="product__desc">
-                                                            <h3><a href="product-details.html">Soffer Pro x33</a></h3>
+                                                            <h3><a href="product-details.html">Giảm sóc kaifa</a></h3>
                                                             <div class="price_amount">
-                                                                <span class="current_price">$2999.99</span>
-                                                                <span class="old_price">$3700.00</span>
+                                                                <span class="current_price">380.000</span>
+                                                                <span class="old_price">400.000</span>
                                                             </div>
                                                         </div>
                                                     </div>
@@ -288,11 +288,11 @@
                                                                     class="zmdi zmdi-refresh-alt"></i></a>
                                                         </div>
                                                         <div class="product__desc">
-                                                            <h3><a href="product-details.html">Soffer Pro x33</a></h3>
+                                                            <h3><a href="product-details.html">Nhựa Junimter</a></h3>
                                                             <div class="price_amount">
-                                                                <span class="current_price">$2999.99</span>
-                                                                <span class="discount_price">-15%</span>
-                                                                <span class="old_price">$3700.00</span>
+                                                                <span class="current_price">2.000.000</span>
+                                                                <span class="discount_price">-10%</span>
+                                                                <span class="old_price">1.800.000</span>
                                                             </div>
                                                         </div>
                                                     </div>
@@ -315,11 +315,11 @@
                                                                     class="zmdi zmdi-refresh-alt"></i></a>
                                                         </div>
                                                         <div class="product__desc">
-                                                            <h3><a href="product-details.html">Soffer Pro x33</a></h3>
+                                                            <h3><a href="product-details.html">Ắc quy</a></h3>
                                                             <div class="price_amount">
-                                                                <span class="current_price">$2999.99</span>
-                                                                <span class="discount_price">-08%</span>
-                                                                <span class="old_price">$3700.00</span>
+                                                                <span class="current_price">240.000</span>
+                                                                <span class="discount_price">-10%</span>
+                                                                <span class="old_price">216.000</span>
                                                             </div>
                                                         </div>
                                                     </div>
@@ -341,10 +341,10 @@
                                                                     class="zmdi zmdi-refresh-alt"></i></a>
                                                         </div>
                                                         <div class="product__desc">
-                                                            <h3><a href="product-details.html">Soffer Pro x33</a></h3>
+                                                            <h3><a href="product-details.html">Pit tông</a></h3>
                                                             <div class="price_amount">
-                                                                <span class="current_price">$2999.99</span>
-                                                                <span class="old_price">$3700.00</span>
+                                                                <span class="current_price">300.000</span>
+                                                                <span class="old_price">300.000</span>
                                                             </div>
                                                         </div>
                                                     </div>
@@ -366,10 +366,10 @@
                                                                     class="zmdi zmdi-refresh-alt"></i></a>
                                                         </div>
                                                         <div class="product__desc">
-                                                            <h3><a href="product-details.html">Soffer Pro x33</a></h3>
+                                                            <h3><a href="product-details.html">Nhựa Dream Việt</a></h3>
                                                             <div class="price_amount">
-                                                                <span class="current_price">$2999.99</span>
-                                                                <span class="old_price">$3700.00</span>
+                                                                <span class="current_price">1.200.000</span>
+                                                                <span class="old_price">1.200.000</span>
                                                             </div>
                                                         </div>
                                                     </div>
@@ -392,11 +392,11 @@
                                                                     class="zmdi zmdi-refresh-alt"></i></a>
                                                         </div>
                                                         <div class="product__desc">
-                                                            <h3><a href="product-details.html">Soffer Pro x33</a></h3>
+                                                            <h3><a href="product-details.html">Nhông xích Mạnh Quang</a></h3>
                                                             <div class="price_amount">
-                                                                <span class="current_price">$2999.99</span>
-                                                                <span class="discount_price">-08%</span>
-                                                                <span class="old_price">$3700.00</span>
+                                                                <span class="current_price">250.000</span>
+                                                                {{-- <span class="discount_price">-08%</span> --}}
+                                                                <span class="old_price">250.000</span>
                                                             </div>
                                                         </div>
                                                     </div>
@@ -418,10 +418,10 @@
                                                                     class="zmdi zmdi-refresh-alt"></i></a>
                                                         </div>
                                                         <div class="product__desc">
-                                                            <h3><a href="product-details.html">Soffer Pro x33</a></h3>
+                                                            <h3><a href="product-details.html">Bình ắc quy</a></h3>
                                                             <div class="price_amount">
-                                                                <span class="current_price">$2999.99</span>
-                                                                <span class="old_price">$3700.00</span>
+                                                                <span class="current_price">240.000</span>
+                                                                <span class="old_price">240.000</span>
                                                             </div>
                                                         </div>
                                                     </div>
@@ -443,10 +443,10 @@
                                                                     class="zmdi zmdi-refresh-alt"></i></a>
                                                         </div>
                                                         <div class="product__desc">
-                                                            <h3><a href="product-details.html">Soffer Pro x33</a></h3>
+                                                            <h3><a href="product-details.html">Pit tông</a></h3>
                                                             <div class="price_amount">
-                                                                <span class="current_price">$2999.99</span>
-                                                                <span class="old_price">$3700.00</span>
+                                                                <span class="current_price">300.000</span>
+                                                                <span class="old_price">300.000</span>
                                                             </div>
                                                         </div>
                                                     </div>

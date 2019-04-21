@@ -35,26 +35,18 @@
                 </div>
             </div>
             <div class="col-md-8 col-12">
-                <div class="cart-buttons mb-30">
+               {{--  <div class="cart-buttons mb-30">
                     <input type="submit" value="Cập nhật" />
                     <a href="cart.html#">Đặt hàng</a>
                 </div>
                 <div class="cart-coupon mb-40">
-                    <p>Nhập địa chỉ giao hàng</p>
+                    <h4>Phiếu mua hàng</h4>
+                    <p>Nhập mã giảm giá nếu có.</p>
                     <div class="coupon_form_inner">
-                          <input type="text" class="form-control" name="address" id="address" placeholder="Địa chỉ" value="">
+                        <input type="text" placeholder="Coupon code" />
+                        <input type="submit" value="Áp dụng" />
                     </div>
-                </div>
-                 <div class="cart-coupon mb-40">
-                       <p>Chọn hình thức giao hàng</p>
-                            <div class="coupon_form_inner">
-              <select class="form-control" name="Delivered" id="Delivered">
-                <option value="">Chọn hình thức giao hàng</option>
-                <option value="1" >Chuyển phát nhanh</option>
-                <option value="0" >Nhận hàng trực tiếp tại cửa hàng</option>
-              </select>
-          </div>
-                </div>
+                </div> --}}
             </div>
             <div class="col-md-4 col-12">
                 <div class="cart-total mb-40">

@@ -93,6 +93,15 @@
           </p>
         </a>
       </li>
+          <li class="nav-item has-treeview">
+        <a href="{{ route('admin.statistics.index') }}" class="nav-link  @if(Route::currentRouteName() == "admin.statistics.index") {{" active"}} @endif">
+          <i class="nav-icon fa fas fa-shopping-cart"></i>
+          <p>
+           Thống kê
+            <i class="right fa"></i>
+          </p>
+        </a>
+      </li>
       <li class="nav-item has-treeview @if(Route::currentRouteName() == "admin.users.index" || Route::currentRouteName() == "admin.members.index") {{" menu-open"}} @endif">
         <a href="#" class="nav-link @if(Route::currentRouteName() == "admin.users.index" || Route::currentRouteName() == "admin.members.index") {{" active"}} @endif">
           <i class="nav-icon fa fas fa-users"></i>

@@ -23,7 +23,9 @@
             .full-height {
                 height: 100vh;
             }
-
+            .center{
+  text-align: center;
+}
             .flex-center {
                 align-items: center;
                 display: flex;

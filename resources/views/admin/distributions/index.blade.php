@@ -9,9 +9,7 @@
         <div class="col-sm-3">
           <h1>Danh sách hãng</h1>
         </div>
-        <div class="col-sm-9">
-          <a href="{{ route('admin.distributions.create') }}" class="btn btn-primary">Thêm mới</a>
-        </div>
+       
       </div>
     </div><!-- /.container-fluid -->
   </section>
@@ -60,6 +58,9 @@
                   <div class="col-md-3" style="margin: 30px 0;" >
                     <button type="submit" class="btn btn-primary">Tìm kiếm</button>
                   </div>
+                   <div class="col-sm-6" style="margin: 30px 0;float: right;text-align: right;">
+          <a href="{{ route('admin.distributions.create') }}" class="btn btn-primary">Thêm mới</a>
+        </div>
                 </div>
               </form>
               </div>
@@ -68,14 +69,14 @@
                 <table class="table table-bordered">
                   <tbody><tr>
                     <th style="width: 10px">STT</th>
-                    <th>Mã hãng</th>
-                    <th>Tên hãng</th>
-                    <th>Mã số thuế</th>
-                    <th>Số điện thoại</th>
-                    <th>Email</th>
-                    <th>Tên người đại diện</th>
-                    <th>Trạng thái</th>
-                    <th>Tùy chọn</th>
+                    <th style="text-align: center;">Mã hãng</th>
+                    <th style="text-align: center;">Tên hãng</th>
+                    <th style="text-align: center;">Mã số thuế</th>
+                    <th style="text-align: center;">Số điện thoại</th>
+                    <th style="text-align: center;">Email</th>
+                    <th style="text-align: center;">Tên người đại diện</th>
+                    <th style="text-align: center;">Trạng thái</th>
+                    <th style="text-align: center;width: 110px;">Tùy chọn</th>
                   </tr>
                   @foreach ($distributions as $key => $distribution)
                   <tr>

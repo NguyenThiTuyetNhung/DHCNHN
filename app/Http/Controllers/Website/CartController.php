@@ -60,11 +60,12 @@ class CartController extends Controller
         if(Cart::content())
         {
             $cart = Cart::content();
-
+$name = $request->input('address');
             $order = Order::create([
                     'user_id' => Auth::user()->id,
                     'Total_memory' => Cart::subtotal(),
-                    'Address' => Auth::user()->address
+                    'Address'=> $name
+                    // 'Address' => Auth::user()->address
             ]);
 
             foreach ($cart as $cac)

@@ -44,19 +44,51 @@
                                     <h2>Đăng ký</h2>
                                 </div>
                                 <div class="login_form form_register ">
-                                    <form action="login.html#">
+                                    <form action="{{ route('registerpost') }}" method="post">
                                         <div class="login_input">
                                             <label>Nhập tài khoản email</label><span>*</span></label>
-                                            <input type="text">
+                                            <input type="text" name="email_1">
                                         </div>
                                         <div class="login_input">
                                             <label>Nhập mật khẩu<span>*</span></label>
-                                            <input type="password">
+                                            <input type="password" name="password_1">
+                                        </div>
+                                        <div class="login_input">
+                                            <label>Nhập tên đầy đủ<span>*</span></label>
+                                            <input type="text" name="name">
+                                        </div>
+                                        <div class="login_input">
+                                            <label>Nhập tên tài khoản<span>*</span></label>
+                                            <input type="text" name="username">
+                                        </div>
+                                         <div class="login_input">
+                                            <label>Nhập ngày tháng năm sinh<span>*</span></label>
+                                            <input type="date" name="birthday">
+                                        </div>
+                                         <div class="login_input">
+                                            <label>Nhập giới tính<span>*</span></label>
+                                            <select name="gender">
+                                                <option value="0">nam</option>
+                                                <option value="1">nữ</option>
+                                            </select>
+                                        </div>
+                                        <div class="login_input">
+                                            <label>Địa chỉ<span>*</span></label>
+                                            <input type="text" name="address">
+                                        </div>
+                                         <div class="login_input">
+                                            <label>Số điện thoại<span>*</span></label>
+                                            <input type="text" name="phone">
                                         </div>
 
                                         <div class="login_submit">
                                             <button type="submit">Đăng ký</button>
+                                            <label for="remember">
+                                                    <input id="remember" type="checkbox">
+                                                    Ghi nhớ
+                                                </label>
                                         </div>
+                                        {{ csrf_field() }}
                                     </form>
                                 </div>
                             </div>

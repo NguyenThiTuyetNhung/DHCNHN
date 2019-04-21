@@ -9,10 +9,7 @@
           <div class="col-sm-3">
             <h4>Danh sách khách hàng</h4>
           </div>
-          <div class="col-sm-9">
-              <a href="{{ route('admin.users.create') }}" class="btn btn-primary">Thêm mới</a>
-            </div>
-        </div>
+        
       </div><!-- /.container-fluid -->
     </section>
 
@@ -60,47 +57,55 @@
                       <div class="col-md-3" style="margin: 30px 0;" >
                           <button type="submit" class="btn btn-primary">Tìm kiếm</button>
                       </div>
+                        <div class="col-sm-6" style=" margin-top:30px;text-align: right;float: right;">
+              <a href="{{ route('admin.users.create') }}" class="btn btn-primary">Thêm mới</a>
+            </div>
+        </div>
                     </div>
                   </form>
               </div>
               <!-- /.card-header -->
               <div class="card-body">
                 <table class="table table-bordered">
-                  <tbody><tr>
-                    <th style="width: 10px">STT</th>
+                  <thead>
+                  <tr>
+                    <th style="width: 30px;">STT</th>
                     {{--  <th>Mã tài khoản</th> --}}
-                    <th>Tài khoản</th>
-                    <th>Họ tên</th>
-                    <th>Ngày sinh</th>
-                    <th>Giới tính</th>
-                    <th>Email</th>
-                    <th>Địa chỉ</th>
-                    <th>Số điện thoại</th>
-                    <th>Trạng thái</th>
-                    <th>Tùy chọn</th>
+                    <th style="width: 30px">Tài khoản</th>
+                    <th style="width: 30px">Họ tên</th>
+                    <th style="width: 30px">Ngày sinh</th>
+                    <th style="width: 30px">Giới tính</th>
+                    <th style="width: 30px">Email</th>
+                    <th style="width: 30px">Địa chỉ</th>
+                    <th style="width: 30px">Số điện thoại</th>
+                    <th style="width: 30px">Trạng thái</th>
+                    <th style="width: 92px;">Tùy chọn</th>
                   </tr>
+                </thead>
+                <tbody>
                   @foreach ($users as $key => $user)
                   <tr>
-                    <td>{{ $key+1 }}</td>
+                    <td style="width: 30px">{{ $key+1 }}</td>
                   {{--   <td>{{ $user->id }}</td> --}}
-                    <td>{{ $user->username }}</td>
-                    <td>{{ $user->name }}</td>
-                    <td>{{ $user->birthday }}</td>
-                    <td>{{ $user->gender }}</td>
-                     <td>{{ $user->email }}</td>
-                    <td>{{ $user->address }}</td>
-                    <td>{{ $user->phone }}</td>
-                    <td>
+                    <td style="width: 30px">{{ $user->username }}</td>
+                    <td style="width: 30px">{{ $user->name }}</td>
+                    <td style="width: 30px">{{ $user->birthday }}</td>
+                    <td style="width: 30px">{{ $user->gender }}</td>
+                    <td style="width: 30px">{{ $user->email }}</td>
+                    <td style="width: 30px">{{ $user->address }}</td>
+                    <td style="width: 30px">{{ $user->phone }}</td>
+                    <td style="width: 30px">
                       @if ($user->status == '1')
                       {{ "Đang hoạt động" }}
                       @elseif ($user->status == '0')
                       {{ "Tạm dừng hoạt động" }}
                       @endif
                     </td>
-                     <td><a href="{{ route('admin.users.edit', ['id' => $user->id]) }}" class="btn btn-success btn-xs"><i class="fa fa-edit"></i></a>
+                     <td style="width: 30px"><a href="{{ route('admin.users.edit', ['id' => $user->id]) }}" class="btn btn-success btn-xs"><i class="fa fa-edit"></i></a>
                       <a href="{{ route('admin.users.destroy', ['id' => $user->id]) }}" class="btn btn-delete btn-danger btn-xs" data-toggle="modal" data-target="#myModal"><i class="fa fa-trash-o"></i></a>
                     </td>
                   </tr>
+
                   @endforeach
                 </tbody></table>
               </div>

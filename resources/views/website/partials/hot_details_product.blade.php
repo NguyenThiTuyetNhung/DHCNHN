@@ -634,14 +634,14 @@
                                 </div>
                             </div>
                             <div class="col-lg-9 col-md-9">
-                                <div class="nav product_tab_menu justify-content-end" role="tablist">
+                                {{-- <div class="nav product_tab_menu justify-content-end" role="tablist">
                                     <a class="active" href="index.html#best_all" data-toggle="tab" role="tab" aria-selected="true" aria-controls="best_all">Tất cả</a>
                                     <a href="index.html#best_bike" data-toggle="tab" role="tab" aria-selected="false" aria-controls="best_bike">Nhông Xích</a>
                                     <a href="index.html#best_tiar" data-toggle="tab" role="tab" aria-selected="false" aria-controls="best_tiar">Giảm Xóc</a>
                                     <a href="index.html#best_parts" data-toggle="tab" role="tab" aria-selected="false" aria-controls="best_parts">Xăm Lốp</a>
                                     <a href="index.html#best_wheel" data-toggle="tab" role="tab" aria-selected="false" aria-controls="best_wheel">Nhựa</a>
                                     <a href="index.html#best_light" data-toggle="tab" role="tab" aria-selected="false" aria-controls="best_light">Khác</a>
-                                </div>
+                                </div> --}}
                             </div>
                           
                         </div>

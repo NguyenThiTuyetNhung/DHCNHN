@@ -48,6 +48,7 @@ class LoginController extends Controller
 
     public function postLogin(LoginRequest $request)
     {
+
     	$loginInfo = [
     		'username' => $request->username, 
     		'password' => $request->password,

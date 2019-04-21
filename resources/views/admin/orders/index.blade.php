@@ -32,7 +32,7 @@
                           <input type="text" class="form-control" placeholder="Nhập từ khóa tìm kiếm ...">
                         </div>
                       </div>
-                      <div class="col-md-3">
+                      {{-- <div class="col-md-3">
                         <div class="form-group">
                           <label>Từ ngày:</label>
                           <div class="input-group">
@@ -43,8 +43,8 @@
                           </div>
                           <!-- /.input group -->
                         </div>
-                      </div>
-                      <div class="col-md-3">
+                      </div> --}}
+                      {{-- <div class="col-md-3">
                         <div class="form-group">
                           <label>Đến ngày:</label>
                           <div class="input-group">
@@ -55,7 +55,7 @@
                           </div>
                           <!-- /.input group -->
                       </div>
-                      </div>
+                      </div> --}}
                       <div class="col-md-3" style="margin: 30px 0;" >
                           <button type="button" class="btn btn-primary">Tìm kiếm</button>
                         </div>
@@ -69,8 +69,8 @@
                     <th>Mã đơn hàng</th>
                     <th>Tên khách hàng</th>
                     <th>Tổng hóa đơn</th>
-                    <th>Yêu cầu</th>
-                    <th>Hình thức giao hàng</th>
+                  {{--   <th>Yêu cầu</th> --}}
+                    {{-- <th>Hình thức giao hàng</th> --}}
                     <th>Địa chỉ</th>
                     <th>Tùy chọn</th>
                   </tr>
@@ -80,13 +80,15 @@
                     <td>{{ $order->id }}</td>
                     <td>{{ $order->users->name }}</td>
                     <td>{{ $order->Total_memory }}</td>
-                    <td>{{ $order->Request }}</td>
-                    <td>{{ $order->Delivered }}</td>
+                   {{--  <td>{{ $order->Request }}</td> --}}
+                    {{-- <td>{{ $order->Delivered }}</td> --}}
                     <td>{{ $order->Address }}</td>
-                    <td><a href="../QuanLyTaiKhoan/ChinhSuaTaiKhoan.html" class="btn btn-success btn-xs"><i class="fa fa-edit"></i></a>
-                       <a href="{{ route('admin.orders.destroy', ['id' => $order->id]) }}" class="btn btn-delete btn-danger btn-xs" data-toggle="modal" data-target="#myModal"><i class="fa fa-trash-o"></i></a>    
+                    <td><a href="{{ route('admin.orders.edit', ['id' => $order->id]) }}" class="btn btn-success btn-xs"><i class="fa fa-edit"></i></a>
+                       <a href="{{ route('admin.orders.destroy', ['id' => $order->id]) }}" class="btn btn-delete btn-danger btn-xs" data-toggle="modal" data-target="#myModal"><i class="fa fa-trash-o"></i></a>  
+                      {{--  <a href="{{ route('admin.orders.edit', ['id' => $order->id]) }}" class="btn btn-success btn-xs"><i class="fa fa-edit"></i></a> --}}
                     </td>
                   </tr>
+
                   @endforeach
 
                 </tbody>

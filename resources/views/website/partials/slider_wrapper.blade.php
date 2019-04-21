@@ -1,7 +1,16 @@
+<style>
+    .single__slider .row{
+        min-height: 450px!important;
+        background-repeat: no-repeat;
+    }
+    .single__slider .bg-opacity{
+        background-repeat: no-repeat;
+    }
+</style>
 <div class="slider_wrapper">
                     <div class="slider-active owl-carousel">
                         <!--Single Slide-->
-                        <div class="single__slider bg-opacity" style="background-image:url(assets/img/slide/1.jpg)">
+                        <div class="single__slider bg-opacity" style="background-image:url(assets/img/slide/slide1.jpg);background-repeat-y: no-repeat;">
                             <div class="container">
                                 <div class="row align-items-center">
                                     <div class="col-lg-6 col-md-6">
@@ -22,7 +31,7 @@
                         </div>
                         <!--Single slide end--> 
                         <!--Single Slide-->
-                        <div class="single__slider bg-opacity" style="background-image:url(assets/img/slide/1.jpg)">
+                        <div class="single__slider bg-opacity" style="background-image:url(assets/img/slide/1.jpg);background-repeat-y: no-repeat;">
                             <div class="container">
                                 <div class="row align-items-center">
                                     <div class="col-lg-6 col-md-6">
@@ -43,7 +52,7 @@
                         </div>
                         <!--Single slide end--> 
                         <!--Single Slide-->
-                        <div class="single__slider bg-opacity" style="background-image:url(assets/img/slide/1.jpg)">
+                        <div class="single__slider bg-opacity" style="background-image:url(assets/img/slide/1.jpg);background-repeat-y: no-repeat;">
                             <div class="container">
                                 <div class="row align-items-center">
                                     <div class="col-lg-6 col-md-6">

@@ -71,7 +71,7 @@
                 <th>Mã danh mục</th>
                 <th>Tên danh mục</th>
                 <th>Nội dung</th>
-                <th>Ảnh</th>
+                {{-- <th>Ảnh</th> --}}
                 <th>Trạng thái</th>
                 <th>Tùy chọn</th>
               </tr>
@@ -81,7 +81,7 @@
                 <td>{{ $gp->id }}</td>
                 <td>{{ $gp->name }}</td>
                 <td>{{ $gp->content }}</td>
-                <td><img src="{{ $gp->images }}" style="width: 100px;" alt=""></td>
+                {{-- <td><img src="{{ $gp->images }}" style="width: 100px;" alt=""></td> --}}
                 <td>{{ $gp->status }}</td>
                 <td><a href="{{ route('admin.group_products.edit', ['id' => $gp->id]) }}" class="btn btn-success btn-xs"><i class="fa fa-edit"></i></a>
                  <a href="{{ route('admin.group_products.destroy', ['id' => $gp->id]) }}" class="btn btn-delete btn-danger btn-xs" data-toggle="modal" data-target="#myModal"><i class="fa fa-trash-o"></i></a> 
